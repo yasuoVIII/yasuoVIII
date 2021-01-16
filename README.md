@@ -6,4 +6,4 @@
 #### ⛓ MEMBER OFFICE VIII
 #### ✨ I intend to improve my knowledge in all possible areas
 ---
-<img align="right" alt="GIF" src="https://cdn.discordapp.com/emojis/799974498832744458.gif?v=1" height="265px" width="445px">
+<img align="right" alt="GIF" src="https://cdn.discordapp.com/emojis/799974498832744458.gif?v=1" height="260px" width="420px">
