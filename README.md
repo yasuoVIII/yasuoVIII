@@ -2,7 +2,7 @@
 
 ##### 🧪 Hi, I'm a programmer, for now my teachings are very basic, but I intend to improve myself in JS and Py.
 
-#### 🌍 Bordeaux, França
+#### 🌍 Bordeaux, France
 #### ⛓ MEMBER OFFICE VIII
 #### ✨ I intend to improve my knowledge in all possible areas
 ---
