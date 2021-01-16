@@ -1,12 +1,12 @@
-###  YASUO <img src="https://cdn.discordapp.com/emojis/799954767429500939.gif?v=1" width="28px"/>
+# YASUO <a href="https://www.imagensanimadas.com/cat-bandeira-da-franca-764.htm"><img src="https://www.imagensanimadas.com/data/media/764/bandeira-franca-imagem-animada-0003.gif" border="0" alt="bandeira-franca-imagem-animada-0003" /></a>
 
-##### 🧪 Hi, I'm a programmer, for now my teachings are very basic, but I intend to improve myself in JS and Py.
+🧪 Hi, I'm a programmer, for now my teachings are very basic, but I intend to improve myself in JS and Py.
 
-#### 🌍 Bordeaux, França
-#### ⛓ MEMBER OFFICE VIII
-#### ✨ I intend to improve my knowledge in all possible areas
----
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/90/af/f5/90aff5c7eca36889703a1ee6fcd4d178.gif" height="260px" width="420px">
+🌍 Bordeaux, França
 
-##### <img src="https://cdn.discordapp.com/emojis/797877059103096862.gif?v=1" width="18px"> N'importe qui peut écrire du code que l'ordinateur comprend. Les bons programmeurs écrivent du code que les humains comprennent. <img src="https://cdn.discordapp.com/emojis/797877059103096862.gif?v=1" width="18px">
+⛓ MEMBER OFFICE VIII
 
+✨ I intend to improve my knowledge in all possible areas
+--- 
+<img align="right" width="400" height="400" src=https://i.pinimg.com/originals/1c/4f/ac/1c4facad627b098885aec6266b8c6c0e.gif>
+[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="380" />](spotify:playlist:4wCA8itzQvjVqgBtWZgMCM)
