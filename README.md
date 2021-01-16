@@ -14,3 +14,7 @@
 
 ### *Spotify Songs <img src="https://cdn.discordapp.com/emojis/778007604928315393.gif?v=1" width="32px"/>*
 [<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="380" />](https://open.spotify.com/user/irusheerz?si=jg4Tf5IrRgyKeXunisvGPQ)
+---
+#
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=yasuoVIII&show_icons=true&theme=radical" alt="yasuoVII"/></p>
