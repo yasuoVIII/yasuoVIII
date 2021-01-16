@@ -7,7 +7,5 @@
 ⛓ MEMBER OFFICE VIII
 
 ✨ I intend to improve my knowledge in all possible areas
-
 -->
-
 <img align="right" width="400" height="400" src=https://i.pinimg.com/originals/1c/4f/ac/1c4facad627b098885aec6266b8c6c0e.gif>
