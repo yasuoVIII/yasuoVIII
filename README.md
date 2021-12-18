@@ -10,9 +10,6 @@
 ##### <img src="https://cdn.discordapp.com/emojis/797877059103096862.gif?v=1" width="18px"> N'importe qui peut écrire du code que l'ordinateur comprend. Les bons programmeurs écrivent du code que les humains comprennent. <img src="https://cdn.discordapp.com/emojis/797877059103096862.gif?v=1" width="18px">
 
 #
-
-### *Spotify Songs <img src="https://cdn.discordapp.com/emojis/778007604928315393.gif?v=1" width="32px"/>*
-[<img src="https://now-playing-codeSTACKr.vercel.app/api/spotify-playing" alt= "codeSTACKr Spotify Playing" width="380" />](https://open.spotify.com/user/irusheerz?si=jg4Tf5IrRgyKeXunisvGPQ)
 ---
 #
 
